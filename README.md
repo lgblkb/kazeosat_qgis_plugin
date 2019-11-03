@@ -1,0 +1,1 @@
+# kazeosat_qgis_plugin
